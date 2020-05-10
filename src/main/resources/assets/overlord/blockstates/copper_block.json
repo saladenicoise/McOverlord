@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "overlord:block/copper_block" }
+  }
+}

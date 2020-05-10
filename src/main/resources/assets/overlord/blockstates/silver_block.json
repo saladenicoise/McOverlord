@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "overlord:block/silver_block" }
+  }
+}

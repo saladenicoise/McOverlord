@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "overlord:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "overlord:silver_block"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "overlord:block/upkeepbox_top",
+    "down": "overlord:block/upkeepbox_top",
+    "up": "overlord:block/upkeepbox_top",
+    "north": "overlord:block/upkeepbox_front",
+    "east": "overlord:block/upkeepbox_side",
+    "south": "overlord:block/upkeepbox_side",
+    "west": "overlord:block/upkeepbox_side"
+  }
+}

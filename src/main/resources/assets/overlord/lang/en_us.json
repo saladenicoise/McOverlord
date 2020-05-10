@@ -1,0 +1,23 @@
+{
+  "item.overlord.copper_ingot": "Copper Ingot",
+  "block.overlord.copper_block": "Copper Block",
+  "item.overlord.silver_ingot": "Silver Ingot",
+  "block.overlord.silver_block": "Silver Block",
+  "item.overlord.platinum_ingot": "Platinum Ingot",
+  "block.overlord.platinum_block": "Platinum Block",
+  "item.overlord.mithril_ingot": "Mithril Ingot",
+  "item.overlord.orichalcum_ingot": "Orichalcum Ingot",
+  "item.overlord.adamantite_ingot": "Adamantite Ingot",
+  "item.overlord.prismatic_1_ingot": "Apoithakarah Crystal",
+  "item.overlord.prismatic_2_ingot": "Scarletite Crystal",
+  "item.overlord.prismatic_3_ingot": "Celestial Uranium Crystal",
+  "item.overlord.prismatic_4_ingot": "Star Silver Crystal",
+  "item.overlord.prismatic_5_ingot": "Divine Platinum Crystal",
+  "item.overlord.prismatic_6_ingot": "Prismatic Ore #6 Crystal",
+  "item.overlord.prismatic_7_ingot": "Prismatic Ore #7 Crystal",
+  "itemGroup.overlordMaterialsItemGroup": "Overlord: Materials",
+  "itemGroup.overlordMartialItemGroup": "Overlord: Martial",
+  "itemGroup.overlordMagicItemGroup": "Overlord: Magic",
+  "block.overlord.forge_station": "Forging Station",
+  "block.overlord.upkeep_box": "Upkeep Box"
+}

@@ -1,0 +1,11 @@
+modLoader="javafml" #mandatory
+loaderVersion="[28,)" #mandatory. 26 for 1.14.2, 27 for 1.14.3, 28 for 1.14.4. 29,30,31 for 1.15, 1.15.2/3
+
+[[mods]] #mandatory
+modId="overlord" #mandatory
+version="1.0" #mandatory
+displayName="Overlord: A Minecraft Mod" #mandatory
+credits="Salad" #optional
+description='''
+A mod based on Kugane Maruyama's Dark Fantasy light novels, as well as the anime adaptation by Funimation and Kadokawa
+'''

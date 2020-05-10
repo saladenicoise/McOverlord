@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north": { "model": "overlord:block/upkeep_box" },
+    "facing=south": { "model": "overlord:block/upkeep_box", "y": 180 },
+    "facing=west":  { "model": "overlord:block/upkeep_box", "y": 270 },
+    "facing=east":  { "model": "overlord:block/upkeep_box", "y": 90 },
+    "facing=up": { "model": "overlord:block/upkeep_box" },
+    "facing=down": { "model": "overlord:block/upkeep_box" }
+  }
+}

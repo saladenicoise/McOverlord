@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#$#",
+    "$ $",
+    "#$#"
+  ],
+  "key": {
+    "#": {
+      "item": "overlord:copper_block"
+    },
+    "$": {
+      "item": "overlord:silver_block"
+    }
+  },
+  "result": {
+    "item": "overlord:upkeep_box"
+  }
+}
